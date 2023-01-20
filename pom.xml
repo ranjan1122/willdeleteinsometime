@@ -13,6 +13,6 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
     <build>
-        <finalName>dockerkenkinsintegrationsample</finalName>
+        <finalName>java4you-sprinboot-docker-image-github-action</finalName>
     </build>
 </project>
